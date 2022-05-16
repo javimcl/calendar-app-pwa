@@ -72,3 +72,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 npm install --save-dev @wojtekmaj/enzyme-adapter-react-17
 npm install --save-dev enzyme-to-json
+
+workbox wizard
+workbox generateSW workbox-config.js
+
+workbox injectManifest
+
+https://developer.chrome.com/docs/workbox/modules/workbox-background-sync/
+
+npm i react-detect-offline
